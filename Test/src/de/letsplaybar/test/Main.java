@@ -8,7 +8,7 @@ public class Main {
 			name= "Michael";
 		else
 			name = args[0];
-		System.out.println(Methode.getMassage(name));
+		System.out.println(Methode.getMessage(name));
 	}
 	
 }
